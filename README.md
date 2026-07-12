@@ -1,4 +1,4 @@
-## Hello!
+## Hi!
 I’m Naraid, a full‑stack developer based in Paris. I recently finished my bootcamp at [Le Wagon](https://github.com/lewagon), and I enjoy building things that turn ideas into real, working apps. I’m especially drawn to projects involving AI, clean interfaces, and clever solutions to everyday problems.
 
 I’m trained in Ruby on Rails and currently learning Node.js and React. I’m always open to exploring new languages and tools if they help me build something interesting or support future roles.

@@ -21,6 +21,6 @@ Je travaille principalement avec Ruby on Rails et j’apprends actuellement Node
 - macOS, VS Code, rbenv, Zsh + Powerlevel10k
 
 ## How to Reach Me
-- GitHub: [naraidk](https://github.com/lewagon)
+- GitHub: [naraidk](https://github.com/naraidk)
 - Email: naraid.kuapunyakoon@gmail.com
 - LinkedIn: www.linkedin.com/in/naraid

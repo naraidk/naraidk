@@ -8,9 +8,10 @@ Je m’appelle Naraid, je suis développeur full-stack à Paris. Je viens de ter
 
 Je travaille principalement avec Ruby on Rails et j’apprends actuellement Node.js et React. J’aime aussi découvrir de nouvelles technologies et continuer à apprendre.
 
-## What I’m Working On
+## Projects
 - [Nourriscan](https://github.com/naraidk/Nourriscan) : a simple AI food‑analysis app that reads meals from photos and extracts nutritional data
 - [Doggy](https://github.com/naraidk/Doggy) : a social media for dogs
+- [Chatbot-dog](https://github.com/naraidk/Chatbot-dog) : a simple
 
 ## Tools & Tech I Use
 - Ruby on Rails, PostgreSQL, ActiveStorage

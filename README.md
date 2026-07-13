@@ -10,8 +10,8 @@ Je travaille principalement avec Ruby on Rails et j’apprends actuellement Node
 
 ## Projects
 - [Nourriscan](https://github.com/naraidk/Nourriscan) : a simple AI food‑analysis app that reads meals from photos and extracts nutritional data
-- [Doggy](https://github.com/naraidk/Doggy) : a social media for dogs
-- [Chatbot-dog](https://github.com/naraidk/Chatbot-dog) : a simple
+- [Doggy](https://github.com/naraidk/Doggy) : a social media for dogs allowing them to be stars within a dedicated community.
+- [Chatbot-dog](https://github.com/naraidk/Chatbot-dog) : a lightweight AI assistant that helps dog owners get quick, reliable information before consulting a veterinarian.
 
 ## Tools & Tech I Use
 - Ruby on Rails, PostgreSQL, ActiveStorage

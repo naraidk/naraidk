@@ -19,6 +19,12 @@ Je m’appelle Naraid, je suis développeur full-stack à Paris. Je viens de ter
 - macOS, VS Code, rbenv, Zsh + Powerlevel10k
 - Figma, Illustrator, Photoshop, Canva
 
+## I'm interested in
+- Construction & Puzzles : Lego (cars or vehicles from Lego Technic), and 3D puzzles made of wood, metal, or plastic.
+- Visual Arts & Creative Design : Sewing, customizing clothes and accessories, DIY projects, photography, and creating personal designs.
+- Technology & Innovation : artificial intelligence and its potential to improve how we use technology.
+- Lifestyle & Home : planting, interior design, fishkeeping, and aquariums.
+
 ## How to Reach Me
 - GitHub: [naraidk](https://github.com/naraidk)
 - Email: naraid.kuapunyakoon@gmail.com

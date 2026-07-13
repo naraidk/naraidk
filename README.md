@@ -22,4 +22,4 @@ Je travaille principalement avec Ruby on Rails et j’apprends actuellement Node
 ## How to Reach Me
 - GitHub: [naraidk](https://github.com/naraidk)
 - Email: naraid.kuapunyakoon@gmail.com
-- LinkedIn: www.linkedin.com/in/naraid
+- LinkedIn: [www.linkedin.com/in/naraid](https://www.linkedin.com/in/naraid/)

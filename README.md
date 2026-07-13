@@ -4,9 +4,7 @@ I’m Naraid, a full‑stack developer based in Paris. I recently finished my bo
 I’m trained in Ruby on Rails and currently learning Node.js and React. I’m always open to exploring new languages and tools if they help me build something interesting or support future roles.
 
 ## Bonjour! 🇫🇷
-Je m’appelle Naraid, je suis développeur full-stack à Paris. Je viens de terminer le bootcamp du [Wagon](https://github.com/lewagon), où j’ai appris à créer des applications web et à intégrer l’IA. J’aime développer des projets utiles avec des interfaces simples et agréables à utiliser.
-
-Je travaille principalement avec Ruby on Rails et j’apprends actuellement Node.js et React. J’aime aussi découvrir de nouvelles technologies et continuer à apprendre.
+Je m’appelle Naraid, je suis développeur full-stack à Paris. Je viens de terminer le bootcamp du [Wagon](https://github.com/lewagon), où j’ai appris à créer des applications web et à intégrer l’IA. J’aime développer des projets utiles avec des interfaces simples et agréables à utiliser. Je travaille principalement avec Ruby on Rails et j’apprends actuellement Node.js et React. J’aime aussi découvrir de nouvelles technologies et continuer à apprendre.
 
 ## Projects
 - [Nourriscan](https://github.com/naraidk/Nourriscan) : a simple AI food‑analysis app that reads meals from photos and extracts nutritional data

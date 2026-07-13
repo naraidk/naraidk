@@ -14,10 +14,11 @@ Je travaille principalement avec Ruby on Rails et j’apprends actuellement Node
 
 ## Tools & Tech I Use
 - Ruby on Rails, PostgreSQL, ActiveStorage
-- Stimulus, Bootstrap, HTML/CSS
+- Stimulus, Bootstrap, HTML/CSS, Java Script
 - Google Gemini Vision, REST APIs
-- GitHub Actions, Heroku, Cloudinary, Mapbox
+- Git / GitHub, Heroku, Cloudinary, Mapbox
 - macOS, VS Code, rbenv, Zsh + Powerlevel10k
+- Figma, Illustrator, Photoshop, Canva
 
 ## How to Reach Me
 - GitHub: [naraidk](https://github.com/naraidk)

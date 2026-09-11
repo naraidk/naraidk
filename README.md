@@ -1,23 +1,21 @@
-## Bonjour! 🇫🇷
-Je m’appelle Naraid, je suis développeur full-stack à Paris. Je viens de terminer le bootcamp du [Wagon](https://github.com/lewagon), où j’ai appris à créer des applications web et à intégrer l’IA. J’aime développer des projets utiles avec des interfaces simples et agréables à utiliser. Je travaille principalement avec Ruby on Rails et j’apprends actuellement Node.js et React. J’aime aussi découvrir de nouvelles technologies et continuer à apprendre.
-
 ## Hi! 👋
-I’m Naraid, a full‑stack developer based in Paris. I recently finished my bootcamp at [Le Wagon](https://github.com/lewagon), and I enjoy building things that turn ideas into real, working apps. I’m especially drawn to projects involving AI, clean interfaces, and clever solutions to everyday problems.
+Hi, I'm Naraid, a Paris-based freelance full-stack developer and Le Wagon alumnus. I love building apps that make everyday life easier.
+My tech stack includes React, Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB, and Ruby on Rails. I also integrate AI into modern development workflows and projects, leveraging tools like Claude Code, GitHub Copilot, and Git/GitHub. I speak English and French fluently, and Thai is my mother tongue!
 
-I’m trained in Ruby on Rails and currently learning Node.js and React. I’m always open to exploring new languages and tools if they help me build something interesting or support future roles.
+## Bonjour! 🇫🇷
+Je m’appelle Naraid, je suis développeur full-stack freelance basé à Paris. Alumni du Wagon, je conçois et développe des applications web et des outils sur mesure pensés pour répondre aux besoins concrets de la vie quotidienne. Mon stack technique s'articule autour de React/Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB et Ruby on Rails. J'intègre également l'intelligence artificielle au cœur des workflows et des projets en m'appuyant sur des outils comme Claude Code, GitHub Copilot et Git/GitHub.
 
 ## Projects
-- [Nourriscan](https://github.com/naraidk/Nourriscan) : a simple AI food‑analysis app that reads meals from photos and extracts nutritional data
+- [movieMind](https://github.com/naraidk/moviemind) : a movie recommendation app designed to help users discover films that match their mood, energy and context in just a few clicks..
+- [noteOK](https://github.com/naraidk/noteOK) : a simple note-taking app that allows you to add images, customize font colors and summerize with AI.
 - [Doggy](https://github.com/naraidk/Doggy) : a social media for dogs allowing them to be stars within a dedicated community.
-- [Chatbot-dog](https://github.com/naraidk/Chatbot-dog) : a lightweight AI assistant that helps dog owners get quick, reliable information before consulting a veterinarian.
+
 
 ## Tools & Tech I Use
-- Ruby on Rails, PostgreSQL, ActiveStorage
-- Stimulus, Bootstrap, HTML/CSS, Java Script
-- Google Gemini Vision, REST APIs
-- Git / GitHub, Heroku, Cloudinary, Mapbox
-- macOS, VS Code, rbenv, Zsh + Powerlevel10k
-- Figma, Illustrator, Photoshop, Canva
+- Back-end: Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, Active Record, SQL, PHP, Visual Basic .NET, Active Storage, REST APIs
+- Front-end: React, Vite, JavaScript, TypeScript, Tailwind CSS, Bootstrap, HTML, CSS, Stimulus, Turbo Streams
+- AI & Automation: Google Gemini API (Vision / Parsing & Text Summarization), OpenAI API, RubyLLM, Cloudinary
+- Tools & Environment: Git / GitHub, Supabase, Heroku, Mapbox, macOS, VS Code, Figma, Illustrator, Photoshop, Canva, Agile Methods / Kanban
 
 ## I'm interested in
 - Construction & Puzzles : Lego (cars or vehicles from Lego Technic), and 3D puzzles made of wood, metal, or plastic.

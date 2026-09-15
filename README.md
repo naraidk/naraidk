@@ -6,9 +6,9 @@ My tech stack includes React, Vite, Node.js, TypeScript, JavaScript, PostgreSQL,
 Je m’appelle Naraid, je suis développeur full-stack freelance basé à Paris. Alumni du Wagon, je conçois et développe des applications web et des outils sur mesure pensés pour répondre aux besoins concrets de la vie quotidienne. Mon stack technique s'articule autour de React/Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB et Ruby on Rails. J'intègre également l'intelligence artificielle au cœur des workflows et des projets en m'appuyant sur des outils comme Claude Code, GitHub Copilot et Git/GitHub.
 
 ## Projects
-- <img width="108" height="82" alt="Image" src="https://github.com/user-attachments/assets/fc5a8d9c-4c8d-4ff6-9f59-9c65f75f9d4e" /> [movieMind](https://github.com/naraidk/moviemind) : a movie recommendation app designed to help users discover films that match their mood, energy and context in just a few clicks..
-- [noteOK](https://github.com/naraidk/noteOK) : a simple note-taking app that allows you to add images, customize font colors and summerize with AI.
-- [Doggy](https://github.com/naraidk/Doggy) : a social media for dogs allowing them to be stars within a dedicated community.
+<img width="108" height="82" alt="Image" src="https://github.com/user-attachments/assets/fc5a8d9c-4c8d-4ff6-9f59-9c65f75f9d4e" /> [movieMind](https://github.com/naraidk/moviemind) : a movie recommendation app designed to help users discover films that match their mood, energy and context in just a few clicks..
+<img width="137" height="77" alt="Image" src="https://github.com/user-attachments/assets/11a99bcf-120a-42f1-a69f-5e69762d7639" /> [noteOK](https://github.com/naraidk/noteOK) : a simple note-taking app that allows you to add images, customize font colors and summerize with AI.
+<img width="109" height="62" alt="Image" src="https://github.com/user-attachments/assets/9f4bba05-3681-4d5f-8bfc-918e9efcdc61" /> [Doggy](https://github.com/naraidk/Doggy) : a social media for dogs allowing them to be stars within a dedicated community.
 
 
 ## Tools & Tech I Use

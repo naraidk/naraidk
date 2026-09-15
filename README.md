@@ -6,7 +6,7 @@ My tech stack includes React, Vite, Node.js, TypeScript, JavaScript, PostgreSQL,
 Je m’appelle Naraid, je suis développeur full-stack freelance basé à Paris. Alumni du Wagon, je conçois et développe des applications web et des outils sur mesure pensés pour répondre aux besoins concrets de la vie quotidienne. Mon stack technique s'articule autour de React/Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB et Ruby on Rails. J'intègre également l'intelligence artificielle au cœur des workflows et des projets en m'appuyant sur des outils comme Claude Code, GitHub Copilot et Git/GitHub.
 
 ## Projects
-- <img width="54" height="41" alt="Image" src="https://github.com/user-attachments/assets/fc5a8d9c-4c8d-4ff6-9f59-9c65f75f9d4e" />[movieMind](https://github.com/naraidk/moviemind) : a movie recommendation app designed to help users discover films that match their mood, energy and context in just a few clicks..
+- <img width="108" height="82" alt="Image" src="https://github.com/user-attachments/assets/fc5a8d9c-4c8d-4ff6-9f59-9c65f75f9d4e" /> [movieMind](https://github.com/naraidk/moviemind) : a movie recommendation app designed to help users discover films that match their mood, energy and context in just a few clicks..
 - [noteOK](https://github.com/naraidk/noteOK) : a simple note-taking app that allows you to add images, customize font colors and summerize with AI.
 - [Doggy](https://github.com/naraidk/Doggy) : a social media for dogs allowing them to be stars within a dedicated community.
 

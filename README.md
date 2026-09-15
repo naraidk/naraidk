@@ -6,32 +6,34 @@ My tech stack includes React, Vite, Node.js, TypeScript, JavaScript, PostgreSQL,
 Je m’appelle Naraid, je suis développeur full-stack freelance basé à Paris. Alumni du Wagon, je conçois et développe des applications web et des outils sur mesure pensés pour répondre aux besoins concrets de la vie quotidienne. Mon stack technique s'articule autour de React/Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB et Ruby on Rails. J'intègre également l'intelligence artificielle au cœur des workflows et des projets en m'appuyant sur des outils comme Claude Code, GitHub Copilot et Git/GitHub.
 
 ## Projects
-<table>
-  <tr>
-    <td width="140" align="center">
+<div style="background-color: #ffffff;">
+<table style="background-color: #ffffff;">
+  <tr style="background-color: #ffffff;">
+    <td width="140" align="center" style="background-color: #ffffff;">
       <img width="108" height="82" alt="movieMind" src="https://github.com/user-attachments/assets/fc5a8d9c-4c8d-4ff6-9f59-9c65f75f9d4e" />
     </td>
-    <td>
+    <td style="background-color: #ffffff;">
       <a href="https://github.com/naraidk/moviemind">movieMind</a> : a movie recommendation app designed to help users discover films that match their mood, energy and context in just a few clicks..
     </td>
   </tr>
-  <tr>
-    <td width="140" align="center">
+  <tr style="background-color: #ffffff;">
+    <td width="140" align="center" style="background-color: #ffffff;">
       <img width="137" height="77" alt="noteOK" src="https://github.com/user-attachments/assets/11a99bcf-120a-42f1-a69f-5e69762d7639" />
     </td>
-    <td>
+    <td style="background-color: #ffffff;">
       <a href="https://github.com/naraidk/noteOK">noteOK</a> : a simple note-taking app that allows you to add images, customize font colors and summarize with AI.
     </td>
   </tr>
-  <tr>
-    <td width="140" align="center">
+  <tr style="background-color: #ffffff;">
+    <td width="140" align="center" style="background-color: #ffffff;">
       <img width="109" height="62" alt="Doggy" src="https://github.com/user-attachments/assets/9f4bba05-3681-4d5f-8bfc-918e9efcdc61" />
     </td>
-    <td>
+    <td style="background-color: #ffffff;">
       <a href="https://github.com/naraidk/Doggy">Doggy</a> : a social media for dogs allowing them to be stars within a dedicated community.
     </td>
   </tr>
 </table>
+</div>
 
 ## Tools & Tech I Use
 - Back-end: Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, Active Record, SQL, PHP, Visual Basic .NET, Active Storage, REST APIs

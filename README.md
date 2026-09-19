@@ -1,6 +1,8 @@
 ## Hi! 👋
 Hi, I'm Naraid, a Paris-based full-stack developer and Le Wagon alumnus. I love building apps that make everyday life easier.
-My tech stack includes React, Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB, and Ruby on Rails. I also integrate AI into modern development workflows and projects, leveraging tools like Claude Code, GitHub Copilot, and Git/GitHub. I speak 🇬🇧 English and 🇫🇷 French fluently, and 🇹🇭Thai is my mother tongue!
+My tech stack includes React, Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB, and Ruby on Rails. I also integrate AI into modern development workflows and projects, leveraging tools like Claude Code, GitHub Copilot, and Git/GitHub.
+
+I speak 🇬🇧 English and 🇫🇷 French fluently, and 🇹🇭Thai is my mother tongue!
 
 ## Bonjour! 🥖
 Je m’appelle Naraid, je suis développeur full-stack basé à Paris. Alumni du Wagon, je conçois et développe des applications web et des outils sur mesure pensés pour répondre aux besoins concrets de la vie quotidienne. Mon stack technique s'articule autour de React/Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB et Ruby on Rails. J'intègre également l'intelligence artificielle au cœur des workflows et des projets en m'appuyant sur des outils comme Claude Code, GitHub Copilot et Git/GitHub.

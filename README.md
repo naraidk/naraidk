@@ -1,11 +1,11 @@
 ## Hi! 👋
-Hi, I'm Naraid, a Paris-based freelance full-stack developer and Le Wagon alumnus. I love building apps that make everyday life easier.
-My tech stack includes React, Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB, and Ruby on Rails. I also integrate AI into modern development workflows and projects, leveraging tools like Claude Code, GitHub Copilot, and Git/GitHub. I speak English and French fluently, and Thai is my mother tongue!
+Hi, I'm Naraid, a Paris-based full-stack developer and Le Wagon alumnus. I love building apps that make everyday life easier.
+My tech stack includes React, Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB, and Ruby on Rails. I also integrate AI into modern development workflows and projects, leveraging tools like Claude Code, GitHub Copilot, and Git/GitHub. I speak 🇬🇧 English and 🇫🇷 French fluently, and 🇹🇭Thai is my mother tongue!
 
-## Bonjour! 🇫🇷
-Je m’appelle Naraid, je suis développeur full-stack freelance basé à Paris. Alumni du Wagon, je conçois et développe des applications web et des outils sur mesure pensés pour répondre aux besoins concrets de la vie quotidienne. Mon stack technique s'articule autour de React/Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB et Ruby on Rails. J'intègre également l'intelligence artificielle au cœur des workflows et des projets en m'appuyant sur des outils comme Claude Code, GitHub Copilot et Git/GitHub.
+## Bonjour! 🥖
+Je m’appelle Naraid, je suis développeur full-stack basé à Paris. Alumni du Wagon, je conçois et développe des applications web et des outils sur mesure pensés pour répondre aux besoins concrets de la vie quotidienne. Mon stack technique s'articule autour de React/Vite, Node.js, TypeScript, JavaScript, PostgreSQL, MongoDB et Ruby on Rails. J'intègre également l'intelligence artificielle au cœur des workflows et des projets en m'appuyant sur des outils comme Claude Code, GitHub Copilot et Git/GitHub.
 
-## Projects
+## Projects 💥
 <div style="background-color: #ffffff;">
 <table style="background-color: #ffffff;">
   <tr style="background-color: #ffffff;">
@@ -35,19 +35,19 @@ Je m’appelle Naraid, je suis développeur full-stack freelance basé à Paris.
 </table>
 </div>
 
-## Tools & Tech I Use
+## Tools & Tech I Use 🎛️
 - Back-end: Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, Active Record, SQL, PHP, Visual Basic .NET, Active Storage, REST APIs
 - Front-end: React, Vite, JavaScript, TypeScript, Tailwind CSS, Bootstrap, HTML, CSS, Stimulus, Turbo Streams
 - AI & Automation: Google Gemini API (Vision / Parsing & Text Summarization), OpenAI API, RubyLLM, Cloudinary
 - Tools & Environment: Git / GitHub, Supabase, Heroku, Mapbox, macOS, VS Code, Figma, Illustrator, Photoshop, Canva, Agile Methods / Kanban
 
-## I'm interested in
+## I'm interested in 🔮
 - Construction & Puzzles : Lego (cars or vehicles from Lego Technic), and 3D puzzles made of wood, metal, or plastic.
 - Visual Arts & Creative Design : Sewing, customizing clothes and accessories, DIY projects, photography, and creating personal designs.
 - Technology & Innovation : artificial intelligence and its potential to improve how we use technology.
 - Lifestyle & Home : planting, interior design, fishkeeping, and aquariums.
 
-## How to Reach Me
+## How to Reach Me 👨🏻‍💻
 - GitHub: [naraidk](https://github.com/naraidk)
 - Email: naraid.kuapunyakoon@gmail.com
 - LinkedIn: [www.linkedin.com/in/naraid](https://www.linkedin.com/in/naraid/)
